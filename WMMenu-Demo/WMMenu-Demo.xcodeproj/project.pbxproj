@@ -17,6 +17,16 @@
 		04EB67811D507D0F00EF3640 /* WMMenu_DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EB67801D507D0F00EF3640 /* WMMenu_DemoUITests.m */; };
 		04EB67911D507DAA00EF3640 /* WMMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EB67901D507DAA00EF3640 /* WMMenu.m */; };
 		04EB67941D507DD400EF3640 /* WMMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EB67931D507DD400EF3640 /* WMMenuItem.m */; };
+		04EB67D51D508C2A00EF3640 /* 回复我的@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67CB1D508C2A00EF3640 /* 回复我的@2x.png */; };
+		04EB67D61D508C2A00EF3640 /* 回复我的@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67CC1D508C2A00EF3640 /* 回复我的@3x.png */; };
+		04EB67D71D508C2A00EF3640 /* 我的发帖@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67CD1D508C2A00EF3640 /* 我的发帖@2x.png */; };
+		04EB67D81D508C2A00EF3640 /* 我的发帖@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67CE1D508C2A00EF3640 /* 我的发帖@3x.png */; };
+		04EB67D91D508C2A00EF3640 /* 我的回帖@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67CF1D508C2A00EF3640 /* 我的回帖@2x.png */; };
+		04EB67DA1D508C2A00EF3640 /* 我的回帖@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67D01D508C2A00EF3640 /* 我的回帖@3x.png */; };
+		04EB67DB1D508C2A00EF3640 /* 相机@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67D11D508C2A00EF3640 /* 相机@2x.png */; };
+		04EB67DC1D508C2A00EF3640 /* 相机@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67D21D508C2A00EF3640 /* 相机@3x.png */; };
+		04EB67DD1D508C2A00EF3640 /* 私信@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67D31D508C2A00EF3640 /* 私信@2x.png */; };
+		04EB67DE1D508C2A00EF3640 /* 私信@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EB67D41D508C2A00EF3640 /* 私信@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +67,16 @@
 		04EB67901D507DAA00EF3640 /* WMMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMMenu.m; sourceTree = "<group>"; };
 		04EB67921D507DD400EF3640 /* WMMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMMenuItem.h; sourceTree = "<group>"; };
 		04EB67931D507DD400EF3640 /* WMMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMMenuItem.m; sourceTree = "<group>"; };
+		04EB67CB1D508C2A00EF3640 /* 回复我的@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "回复我的@2x.png"; sourceTree = "<group>"; };
+		04EB67CC1D508C2A00EF3640 /* 回复我的@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "回复我的@3x.png"; sourceTree = "<group>"; };
+		04EB67CD1D508C2A00EF3640 /* 我的发帖@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的发帖@2x.png"; sourceTree = "<group>"; };
+		04EB67CE1D508C2A00EF3640 /* 我的发帖@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的发帖@3x.png"; sourceTree = "<group>"; };
+		04EB67CF1D508C2A00EF3640 /* 我的回帖@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的回帖@2x.png"; sourceTree = "<group>"; };
+		04EB67D01D508C2A00EF3640 /* 我的回帖@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的回帖@3x.png"; sourceTree = "<group>"; };
+		04EB67D11D508C2A00EF3640 /* 相机@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "相机@2x.png"; sourceTree = "<group>"; };
+		04EB67D21D508C2A00EF3640 /* 相机@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "相机@3x.png"; sourceTree = "<group>"; };
+		04EB67D31D508C2A00EF3640 /* 私信@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "私信@2x.png"; sourceTree = "<group>"; };
+		04EB67D41D508C2A00EF3640 /* 私信@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "私信@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +127,7 @@
 		04EB675A1D507D0E00EF3640 /* WMMenu-Demo */ = {
 			isa = PBXGroup;
 			children = (
+				04EB67CA1D508C2A00EF3640 /* image */,
 				04EB678E1D507D2A00EF3640 /* WMMenu */,
 				04EB675E1D507D0E00EF3640 /* AppDelegate.h */,
 				04EB675F1D507D0E00EF3640 /* AppDelegate.m */,
@@ -156,6 +177,23 @@
 				04EB67931D507DD400EF3640 /* WMMenuItem.m */,
 			);
 			path = WMMenu;
+			sourceTree = "<group>";
+		};
+		04EB67CA1D508C2A00EF3640 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				04EB67CB1D508C2A00EF3640 /* 回复我的@2x.png */,
+				04EB67CC1D508C2A00EF3640 /* 回复我的@3x.png */,
+				04EB67CD1D508C2A00EF3640 /* 我的发帖@2x.png */,
+				04EB67CE1D508C2A00EF3640 /* 我的发帖@3x.png */,
+				04EB67CF1D508C2A00EF3640 /* 我的回帖@2x.png */,
+				04EB67D01D508C2A00EF3640 /* 我的回帖@3x.png */,
+				04EB67D11D508C2A00EF3640 /* 相机@2x.png */,
+				04EB67D21D508C2A00EF3640 /* 相机@3x.png */,
+				04EB67D31D508C2A00EF3640 /* 私信@2x.png */,
+				04EB67D41D508C2A00EF3640 /* 私信@3x.png */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -262,9 +300,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04EB67D71D508C2A00EF3640 /* 我的发帖@2x.png in Resources */,
+				04EB67D91D508C2A00EF3640 /* 我的回帖@2x.png in Resources */,
+				04EB67D51D508C2A00EF3640 /* 回复我的@2x.png in Resources */,
 				04EB676B1D507D0E00EF3640 /* LaunchScreen.storyboard in Resources */,
+				04EB67DB1D508C2A00EF3640 /* 相机@2x.png in Resources */,
+				04EB67DE1D508C2A00EF3640 /* 私信@3x.png in Resources */,
 				04EB67681D507D0E00EF3640 /* Assets.xcassets in Resources */,
+				04EB67D81D508C2A00EF3640 /* 我的发帖@3x.png in Resources */,
+				04EB67D61D508C2A00EF3640 /* 回复我的@3x.png in Resources */,
+				04EB67DD1D508C2A00EF3640 /* 私信@2x.png in Resources */,
 				04EB67661D507D0E00EF3640 /* Main.storyboard in Resources */,
+				04EB67DC1D508C2A00EF3640 /* 相机@3x.png in Resources */,
+				04EB67DA1D508C2A00EF3640 /* 我的回帖@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -517,6 +565,7 @@
 				04EB67871D507D0F00EF3640 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04EB67881D507D0F00EF3640 /* Build configuration list for PBXNativeTarget "WMMenu-DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +574,7 @@
 				04EB678A1D507D0F00EF3640 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04EB678B1D507D0F00EF3640 /* Build configuration list for PBXNativeTarget "WMMenu-DemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -533,6 +583,7 @@
 				04EB678D1D507D0F00EF3640 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
